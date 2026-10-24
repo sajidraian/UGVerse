@@ -1,0 +1,33 @@
+﻿# Compiled Java files
+*.class
+build/
+dist/
+
+# NetBeans private settings
+/nbproject/private/
+
+# IDE temporary files
+.nb-gradle/
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local.properties
